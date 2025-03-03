@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: PureOpen Community Discussions
+    url: https://github.com/PureOpen/pure-list/discussions
+    about: Please ask and answer questions here.
+  - name: PureOpen Documentation
+    url: https://github.com/PureOpen/pure-list#readme
+    about: Check our documentation for more information about the project.
+  - name: Contribution Guidelines
+    url: https://github.com/PureOpen/pure-list/blob/main/CONTRIBUTING.md
+    about: Please read our contribution guidelines before submitting issues or PRs.
